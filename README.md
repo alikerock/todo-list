@@ -1,6 +1,7 @@
 # todo-list
 
 This template should help get you started developing with Vue 3 in Vite.
+composition type todo List - 2024.6.16 - Green Lecture
 
 ## Recommended IDE Setup
 
